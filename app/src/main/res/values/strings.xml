@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NewsBro</string>
+    <string name="menu_item_subscribe">Subscribe</string>
+    <string name="menu_item_unsubscribe">Unsubscribe</string>
+    <string name="button_subscribe">Subscribe</string>
+</resources>
